@@ -17,8 +17,6 @@ Real-time messaging app with signalR.
 
 4. The frontend will be listening on [http://localhost:8080](http://localhost:8080/) while the backend will be listening at [http://localhost:5200](http://localhost:5100/)
 
-## 
-
 
 ## What is signalR ?
 
