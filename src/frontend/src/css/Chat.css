@@ -1,0 +1,14 @@
+.card-text-wrapper {
+    height: 70%;
+    overflow: auto;
+  }
+  
+  .card-wrapper {
+    height: 750px;
+  }
+  
+  .card-action-wrapper {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+  }

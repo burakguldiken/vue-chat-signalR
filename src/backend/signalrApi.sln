@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signalrApi", "signalrApi\signalrApi.csproj", "{8508BD49-306A-4717-B711-68F4190E09F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8508BD49-306A-4717-B711-68F4190E09F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8508BD49-306A-4717-B711-68F4190E09F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8508BD49-306A-4717-B711-68F4190E09F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8508BD49-306A-4717-B711-68F4190E09F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8AE77F7-4290-43F6-A97D-0AADB3CA1929}
+	EndGlobalSection
+EndGlobal
