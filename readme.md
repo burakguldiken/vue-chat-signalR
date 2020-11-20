@@ -1,4 +1,4 @@
-# .SignalR project with .Net Core and Vue
+# SignalR project with .Net Core and Vue
 
 ![alt text](signalr-image.png)
 
