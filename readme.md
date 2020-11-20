@@ -1,23 +1,9 @@
 # .SignalR project with .Net Core and Vue
 
 
-
----
-
-
-
 ## Goal
 
 Real-time messaging app with signalR.
-
-
-
-
-
----
-
-
-
 
 
 ## Quick Start
@@ -32,21 +18,10 @@ Real-time messaging app with signalR.
 
 ## 
 
----
-
-
-
-
 
 ## What is signalR ?
 
 SignalR is an open source .NET library written for developing real-time applications.With SignalR, a continuous connection is maintained between client and server. Instead of Request-Response, it calls the client-side Javascript on the server side in our browser with the RPC (Remote Procedure Calls) feature in SignalR. When there is a change in data, the Server calls a Javascript method and notifies the Client or Clients about it. But if HTTP protocol existed, we would have to refresh the page to make this update.
-
-
-
----
-
-
 
 
 
@@ -58,25 +33,9 @@ SignalR is an open source .NET library written for developing real-time applicat
   
   
 
-
-
----
-
-
-
-
-
 ## What is a hub ?
 
 Hub connection is a high-level API that allows us to directly call client and server methods written on the Persistence connection. It also provides methods with parameters and model binding.
-
-
-
-
-
----
-
-
 
 
 
@@ -112,13 +71,6 @@ public class Program
                 .UseUrls("http://localhost:5200");
     }
 ```
-
-
-
-
-
----
-
 
 
 
